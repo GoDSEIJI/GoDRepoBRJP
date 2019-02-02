@@ -11,7 +11,7 @@ Como Instalar.
 
 3 - Clique no ícone de uma caixa aberta em cima do lado esquerdo superior "Navegador de complementos".
 
-4 - Selecione Instalar a partir de um arquivo ZIP.
+4 - Selecione "Instalar a partir de um arquivo ZIP".
 
 5 - Selecione o arquivo baixado em seu disco rígido.
 

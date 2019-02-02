@@ -2,6 +2,7 @@
 Addons para o Kodi. Brasil IPTV Filmes Series, Esses Addons são de terceiros
 não tenho nenhuma responsábilidade sobre os arquivos. Instale por sua conta em Risco.
 Todos testados e funcionando perfeitamente.
+As atualizaçõs do s Add-ons estarei tentando deixar sempre em dia =D
 
 Como Instalar.
 

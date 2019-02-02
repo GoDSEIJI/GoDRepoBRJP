@@ -1,7 +1,7 @@
 # GoDRepoBRJP IPTV
 Addons para o Kodi. Brasil IPTV Filmes Series, Esses Addons são de terceiros
 não tenho nenhuma responsábilidade sobre os arquivos. Instale por sua conta em Risco.
-Todos testados e funcionando perfeitamento.
+Todos testados e funcionando perfeitamente.
 
 Como Instalar.
 
